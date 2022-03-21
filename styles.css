@@ -40,6 +40,7 @@
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
+    margin-top: 2em;
 } 
 #right-col-index {
     background-image: url(images/Prayer1.png);
@@ -79,7 +80,7 @@
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
-    padding-top: 1em;
+    margin-top: 3em;
 }
 #right-col-index-2 {
     background-image: url(images/Dua.png);
@@ -92,4 +93,5 @@
 }
 #content-area-2 {
     color: rgb(15, 122, 194);
+    padding-bottom: 4em;
 }
